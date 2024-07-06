@@ -12,7 +12,7 @@ h3 {
 .variable-width .slick-slide p {
   background: #00558B;
   height: 100px;
-  color: #fff;
+  color: #red;
   margin: 5px;
   line-height: 100px;
   text-align: center;
@@ -96,7 +96,7 @@ h3 {
   height: 180px;
 }
 .slick-arrow {
-  background-color: grey;
+  background-color: red;
 }
 .slick-arrow:hover {
   background-color: grey;
@@ -109,7 +109,7 @@ h3 {
   padding: 10px 20px;
   margin: 0px 20px;
   border: none;
-  color: white;
+  color: DarkRed;
   font-size: 20px;
   border-radius: 5px;
   min-height: 45px
